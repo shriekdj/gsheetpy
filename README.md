@@ -40,5 +40,16 @@ Google Drive API -> Manage -> Credential Option Near the Quotas -> Create Creden
 Select Google API Again -> Application Data -> No, I'm not using them -> Create Service Account
 
 Create Service Account By ( Project -> Editor )
+- Create Account With Whatever the Name You Want for me i chose `gsheetsbot`
+- You Will get an email id of the service account
+
 
 Download the JSON File Provided by them
+
+Then only enable the Google Sheets API from Library Option Just That
+
+**The JSON Credential File Should Be downloaded from _Google Drive API_ not google sheets**
+
+While Creating Credentials Json File You Will get an Service Account Email Id
+
+Goto Your Spreadsheet and Click Share Option and Share the File as Editor With Service Account Email Id
