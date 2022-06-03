@@ -55,7 +55,7 @@ class GoogleSheetConnector:
 			self.scopes = scopes
 		
 		if not creds_path:
-			self.creds = ServiceAccountCredentials.from_json_keyfile_name("D:\dev\gsheetspy\google_sheets\creds.json", self.scopes)
+			self.creds = ServiceAccountCredentials.from_json_keyfile_name("D:\dev\gsheetspy\gsheetpy\creds.json", self.scopes)
 		else:
 			self.creds = ServiceAccountCredentials.from_json_keyfile_name(creds_path, self.scopes)
 

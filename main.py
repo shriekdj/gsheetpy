@@ -1,5 +1,5 @@
 from pprint import pprint
-from google_sheets import GoogleSheetConnector
+from gsheetpy import GoogleSheetConnector
 
 spreadsheeet = GoogleSheetConnector()
 
