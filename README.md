@@ -27,12 +27,6 @@ python main.py
  {'5': 'Varun', 'blue': 'asfd', 'hello': 5, 'red': 'Red'}]
  ```
 
-
-
-
-
-
-
 # Instructions on Running the file
 
 Google Cloud Console -> Your Project -> API and Services
