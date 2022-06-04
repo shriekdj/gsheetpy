@@ -1,4 +1,4 @@
-# gsheetspy project ( or maybe package ) by shrikant dhayaje 
+# gsheetspy project by Shrikant Dhayje (@shriekdj) 
 
 
 ```bash
